@@ -1,1 +1,1 @@
-# LaboratorioDeDesenvolvimentoDeAplicacesMoveis-Distribuidas
+# LaboratorioDeDesenvolvimentoDeAplicacoesMoveis-Distribuidas
